@@ -5,7 +5,7 @@ Soy de Gran Canaria.
 
 <picture>
 <image>
-https://es.wikipedia.org/wiki/Gran_Canaria
+ alt="Imagen que veremos."https://es.wikipedia.org/wiki/Gran_Canaria
 </picture>
 
 
