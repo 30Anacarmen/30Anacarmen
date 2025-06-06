@@ -1,18 +1,11 @@
 ## Hi there 👋
 Soy de Gran Canaria.
-<!--
 
 
-<picture>
-<img
- src="https://es.wikipedia.org/wiki/Gran_Canaria#/media/Archivo:Gran_Canaria_Sentinel-2.jpg"
- />
-</picture>
+
+![Descripción de la imagen](https://lantigua21.com/programmer.png)
 
 
-**30Anacarmen/30Anacarmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -22,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
