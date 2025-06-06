@@ -4,8 +4,9 @@ Soy de Gran Canaria.
 
 
 <picture>
-<image>
- alt="Imagen que veremos."https://es.wikipedia.org/wiki/Gran_Canaria
+<img
+ src="https://es.wikipedia.org/wiki/Gran_Canaria#/media/Archivo:Gran_Canaria_Sentinel-2.jpg"
+ />
 </picture>
 
 
