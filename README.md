@@ -1,6 +1,14 @@
 ## Hi there 👋
 Soy de Gran Canaria.
 <!--
+
+
+<picture>
+<image>
+https://es.wikipedia.org/wiki/Gran_Canaria
+</picture>
+
+
 **30Anacarmen/30Anacarmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
