@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Soy de Gran Canaria.
 <!--
 **30Anacarmen/30Anacarmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
